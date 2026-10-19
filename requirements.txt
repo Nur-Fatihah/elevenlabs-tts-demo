@@ -1,0 +1,5 @@
+elevenlabs==2.73.1
+fastapi
+uvicorn
+python-dotenv
+pytest
